@@ -1,0 +1,27 @@
+.Pokecard {
+    border-radius: 10px;
+    background-color: lightgrey;
+    float: left;
+    width: 175px;
+    height: 230px;
+    margin-left: 65px;
+    margin-bottom: 65px;
+    margin-right: 65px;
+    padding-right: 20px;
+}
+
+.Pokecard-name {
+    color: blue;
+    text-align: center;
+}
+
+.Pokecard-img {
+    margin-left: 45px;
+    margin-top: -25px;
+}
+
+ul {
+    list-style-type: none;
+    margin-left: 15px;
+    margin-top: -5px;
+}
